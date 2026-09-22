@@ -1,0 +1,32 @@
+main {
+    max-width: 800px;
+    margin: 0 auto;
+}
+aside {
+    width: 400px;
+    margin: 30px auto;
+    border: 4px solid #d1c4c4;
+    padding: 20px;
+    background-color: aquamarine;
+    color: cadetblue;
+
+}
+aside img {
+    width: 200px;
+    height: auto;
+}
+
+main img {
+    width: 160px;
+    height: auto;
+}
+
+p {
+    padding: 0;
+}
+
+footer {
+    margin-top: 25px;
+    border-top: 4px solid #d1c4c4;
+    text-align: center;
+}
