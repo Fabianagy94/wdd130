@@ -102,10 +102,6 @@ header img {
 
 header nav a {
     color: var(--primary-color);
-}
-
-header nav a {
-    color: var(--primary-color);
     text-decoration: none;
 }
 
