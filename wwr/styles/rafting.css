@@ -284,9 +284,6 @@ footer {
     font-size: 1rem;
     font-weight: bold;
     cursor: pointer;
-}
-
-.contact-form button {
     background-color: var(--secondary-color);
 }
 
